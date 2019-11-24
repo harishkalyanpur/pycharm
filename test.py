@@ -1,1 +1,3 @@
-print ("Hello, this is the first file created in Pycharm...edited")
+A={'Age':37, 'Name':'Bond'}
+
+print(A['Name'])
